@@ -154,6 +154,12 @@ First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polyme
 $ polymer serve
 ```
 
+The hostname to serve from. Defaults to localhost. You can run:
+
+```
+$ polymer serve -H 0.0.0.0
+```
+
 ## Building Your Application
 
 ```
